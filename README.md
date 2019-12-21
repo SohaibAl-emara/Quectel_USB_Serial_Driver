@@ -1,8 +1,6 @@
 # Introduction
 
-Quectel USB Serial Driver for UCxx/EC2x/EGxx/EP06/EM06/BG96/AG35.
-
-As I am working in Quectel as an FAE for Vietnam and South East Asia, we will try our best to support all world wide customers.
+Quectel USB Serial Driver for BG96.
 
 # Prepare
 
