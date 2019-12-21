@@ -31,10 +31,9 @@ $ uname -r
 ```
 Checkout the driver to the correct kernel version:
 
-```
+```bash 
 $ git clone git@github.com:ngohaibac/Quectel_USB_Serial_Driver.git
 $ cd Quectel_USB_Serial_Driver
-$ git checkout 4.15.0
 $ make 
 $ sudo make install
 ```
